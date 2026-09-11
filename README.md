@@ -238,3 +238,6 @@ This repository serves as the official landing page for RetroVaders. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RetroVaders today!**
+
+---
+**Last updated:** 2026-09-11 14:04:02 UTC
